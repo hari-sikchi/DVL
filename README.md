@@ -35,12 +35,6 @@ Please refer to instructions inside the **offline** folder to get started with i
 ```
 
 
-## Usage
-
-For exploring Gumbel Regression, you can play with the [Gumbel Regression notebook](https://github.com/Div99/XQL/blob/main/Gumbel_Regression.ipynb) in Google Colab. 
-
-This repository is divided into two subparts, one for the offline RL and one for the online RL experiments.
-To install and use X-QL check the instructions provided in the [Offline folder](offline) for running Offline RL and [Online folder](online) for running Online RL.
 
 
 ## Questions
