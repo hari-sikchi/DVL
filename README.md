@@ -26,11 +26,13 @@ Please refer to instructions inside the **offline** folder to get started with i
 
 ### Citation
 ```
-@article{sikchi2023imitation,
-  title={Imitation from Arbitrary Experience: A Dual Unification of Reinforcement and Imitation Learning Methods},
-  author={Sikchi, Harshit and Zhang, Amy and Niekum, Scott},
-  journal={arXiv preprint arXiv:2302.08560},
-  year={2023}
+@misc{sikchi2023dual,
+      title={Dual RL: Unification and New Methods for Reinforcement and Imitation Learning}, 
+      author={Harshit Sikchi and Qinqing Zheng and Amy Zhang and Scott Niekum},
+      year={2023},
+      eprint={2302.08560},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 
