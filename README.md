@@ -6,7 +6,7 @@
 
 
 
-Official code base for **[Dual RL: Unification and New Methods for Reinforcement and Imitation Learning](https://arxiv.org/abs/2302.08560)** by [Harshit Sikchi](https://hari-sikchi.github.io/)\*, [Qinqing Zheng](https://enosair.github.io/)\*, [Amy Zhang](https://www.ece.utexas.edu/people/faculty/amy-zhang), and [Scott Niekum](https://people.cs.umass.edu/~sniekum/).
+Official code base for **[Dual RL: Unification and New Methods for Reinforcement and Imitation Learning](https://arxiv.org/abs/2302.08560)** by [Harshit Sikchi](https://hari-sikchi.github.io/), [Qinqing Zheng](https://enosair.github.io/), [Amy Zhang](https://www.ece.utexas.edu/people/faculty/amy-zhang), and [Scott Niekum](https://people.cs.umass.edu/~sniekum/).
 
 
 
